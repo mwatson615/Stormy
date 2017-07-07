@@ -1,10 +1,12 @@
-package com.mw.stormy;
+package com.mw.stormy.ui;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.app.DialogFragment;
 import android.content.Context;
 import android.os.Bundle;
+
+import com.mw.stormy.R;
 
 /**
  * Created by MW on 6/22/17.
