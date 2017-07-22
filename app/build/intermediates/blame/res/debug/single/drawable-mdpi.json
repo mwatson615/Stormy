@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/MW/AndroidStudioProjects/Stormy/app/build/intermediates/res/merged/debug/drawable-mdpi/sleet.png",
+        "source": "/Users/MW/AndroidStudioProjects/Stormy/app/src/main/res/drawable-mdpi/sleet.png"
+    },
+    {
+        "merged": "/Users/MW/AndroidStudioProjects/Stormy/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/MW/AndroidStudioProjects/Stormy/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/MW/AndroidStudioProjects/Stormy/app/build/intermediates/res/merged/debug/drawable-mdpi/rain.png",
+        "source": "/Users/MW/AndroidStudioProjects/Stormy/app/src/main/res/drawable-mdpi/rain.png"
+    },
+    {
+        "merged": "/Users/MW/AndroidStudioProjects/Stormy/app/build/intermediates/res/merged/debug/drawable-mdpi/partly_cloudy.png",
+        "source": "/Users/MW/AndroidStudioProjects/Stormy/app/src/main/res/drawable-mdpi/partly_cloudy.png"
+    },
+    {
+        "merged": "/Users/MW/AndroidStudioProjects/Stormy/app/build/intermediates/res/merged/debug/drawable-mdpi/sunny.png",
+        "source": "/Users/MW/AndroidStudioProjects/Stormy/app/src/main/res/drawable-mdpi/sunny.png"
+    },
+    {
+        "merged": "/Users/MW/AndroidStudioProjects/Stormy/app/build/intermediates/res/merged/debug/drawable-mdpi/clear_day.png",
+        "source": "/Users/MW/AndroidStudioProjects/Stormy/app/src/main/res/drawable-mdpi/clear_day.png"
+    },
+    {
+        "merged": "/Users/MW/AndroidStudioProjects/Stormy/app/build/intermediates/res/merged/debug/drawable-mdpi/fog.png",
+        "source": "/Users/MW/AndroidStudioProjects/Stormy/app/src/main/res/drawable-mdpi/fog.png"
+    },
+    {
+        "merged": "/Users/MW/AndroidStudioProjects/Stormy/app/build/intermediates/res/merged/debug/drawable-mdpi/clear_night.png",
+        "source": "/Users/MW/AndroidStudioProjects/Stormy/app/src/main/res/drawable-mdpi/clear_night.png"
+    },
+    {
+        "merged": "/Users/MW/AndroidStudioProjects/Stormy/app/build/intermediates/res/merged/debug/drawable-mdpi/wind.png",
+        "source": "/Users/MW/AndroidStudioProjects/Stormy/app/src/main/res/drawable-mdpi/wind.png"
+    },
+    {
+        "merged": "/Users/MW/AndroidStudioProjects/Stormy/app/build/intermediates/res/merged/debug/drawable-mdpi/cloudy.png",
+        "source": "/Users/MW/AndroidStudioProjects/Stormy/app/src/main/res/drawable-mdpi/cloudy.png"
+    },
+    {
+        "merged": "/Users/MW/AndroidStudioProjects/Stormy/app/build/intermediates/res/merged/debug/drawable-mdpi/cloudy_night.png",
+        "source": "/Users/MW/AndroidStudioProjects/Stormy/app/src/main/res/drawable-mdpi/cloudy_night.png"
+    },
+    {
+        "merged": "/Users/MW/AndroidStudioProjects/Stormy/app/build/intermediates/res/merged/debug/drawable-mdpi/refresh.png",
+        "source": "/Users/MW/AndroidStudioProjects/Stormy/app/src/main/res/drawable-mdpi/refresh.png"
+    },
+    {
+        "merged": "/Users/MW/AndroidStudioProjects/Stormy/app/build/intermediates/res/merged/debug/drawable-mdpi/snow.png",
+        "source": "/Users/MW/AndroidStudioProjects/Stormy/app/src/main/res/drawable-mdpi/snow.png"
+    },
+    {
+        "merged": "/Users/MW/AndroidStudioProjects/Stormy/app/build/intermediates/res/merged/debug/drawable-mdpi/degree.png",
+        "source": "/Users/MW/AndroidStudioProjects/Stormy/app/src/main/res/drawable-mdpi/degree.png"
+    }
+]

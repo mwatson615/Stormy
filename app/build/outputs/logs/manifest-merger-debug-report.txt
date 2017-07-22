@@ -1,0 +1,108 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/MW/AndroidStudioProjects/Stormy/app/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from /Users/MW/AndroidStudioProjects/Stormy/app/src/main/AndroidManifest.xml:3:11-34
+		INJECTED from /Users/MW/AndroidStudioProjects/Stormy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/MW/AndroidStudioProjects/Stormy/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/MW/AndroidStudioProjects/Stormy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/MW/AndroidStudioProjects/Stormy/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/MW/AndroidStudioProjects/Stormy/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/MW/AndroidStudioProjects/Stormy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/MW/AndroidStudioProjects/Stormy/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/MW/AndroidStudioProjects/Stormy/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /Users/MW/AndroidStudioProjects/Stormy/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/MW/AndroidStudioProjects/Stormy/app/src/main/AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from /Users/MW/AndroidStudioProjects/Stormy/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /Users/MW/AndroidStudioProjects/Stormy/app/src/main/AndroidManifest.xml:8:5-30:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/MW/.android/build-cache/39ecec7d29c186ea353b1845fb711d5869617df0/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/MW/.android/build-cache/073edf1b922cf5b7ab1f79e098e2b7ce4582f752/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/MW/.android/build-cache/c2eba144c5a03302e4505f146ea1cd3d0ef37bdd/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/MW/.android/build-cache/834ebd247504dd4719e88baf1e380b2e95ce8c0c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/MW/.android/build-cache/9c33e5ded22a3659b16ed70e4e219d5239d53bd1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/MW/.android/build-cache/59f13234e43af17c4275a9b89c421567ab55a3e3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/MW/.android/build-cache/be9edcf17c138afbc30d293548d474adb98f82fa/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/MW/.android/build-cache/22b15c84a95c9e8bc87ac0b5abcd5e64217f7fe5/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/MW/.android/build-cache/9c0f92005d242551388efa9365b225d50c921d49/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/MW/.android/build-cache/f2e8c9aeb377536feb267904a4cb8b74471adc0c/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/MW/AndroidStudioProjects/Stormy/app/src/main/AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from /Users/MW/AndroidStudioProjects/Stormy/app/src/main/AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from /Users/MW/AndroidStudioProjects/Stormy/app/src/main/AndroidManifest.xml:12:9-54
+	android:allowBackup
+		ADDED from /Users/MW/AndroidStudioProjects/Stormy/app/src/main/AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from /Users/MW/AndroidStudioProjects/Stormy/app/src/main/AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from /Users/MW/AndroidStudioProjects/Stormy/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.mw.stormy.ui.MainActivity
+ADDED from /Users/MW/AndroidStudioProjects/Stormy/app/src/main/AndroidManifest.xml:15:9-23:20
+	android:screenOrientation
+		ADDED from /Users/MW/AndroidStudioProjects/Stormy/app/src/main/AndroidManifest.xml:17:13-49
+	android:name
+		ADDED from /Users/MW/AndroidStudioProjects/Stormy/app/src/main/AndroidManifest.xml:16:13-44
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/MW/AndroidStudioProjects/Stormy/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/MW/AndroidStudioProjects/Stormy/app/src/main/AndroidManifest.xml:19:17-68
+	android:name
+		ADDED from /Users/MW/AndroidStudioProjects/Stormy/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/MW/AndroidStudioProjects/Stormy/app/src/main/AndroidManifest.xml:21:17-76
+	android:name
+		ADDED from /Users/MW/AndroidStudioProjects/Stormy/app/src/main/AndroidManifest.xml:21:27-74
+activity#com.mw.stormy.ui.DailyForecastActivity
+ADDED from /Users/MW/AndroidStudioProjects/Stormy/app/src/main/AndroidManifest.xml:24:9-29:20
+	android:name
+		ADDED from /Users/MW/AndroidStudioProjects/Stormy/app/src/main/AndroidManifest.xml:24:19-59
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/MW/AndroidStudioProjects/Stormy/app/src/main/AndroidManifest.xml:26:13-28:51
+	android:value
+		ADDED from /Users/MW/AndroidStudioProjects/Stormy/app/src/main/AndroidManifest.xml:28:17-49
+	android:name
+		ADDED from /Users/MW/AndroidStudioProjects/Stormy/app/src/main/AndroidManifest.xml:27:17-63
+uses-sdk
+INJECTED from /Users/MW/AndroidStudioProjects/Stormy/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/MW/.android/build-cache/39ecec7d29c186ea353b1845fb711d5869617df0/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /Users/MW/.android/build-cache/073edf1b922cf5b7ab1f79e098e2b7ce4582f752/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/MW/.android/build-cache/c2eba144c5a03302e4505f146ea1cd3d0ef37bdd/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/MW/.android/build-cache/834ebd247504dd4719e88baf1e380b2e95ce8c0c/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/MW/.android/build-cache/9c33e5ded22a3659b16ed70e4e219d5239d53bd1/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/MW/.android/build-cache/59f13234e43af17c4275a9b89c421567ab55a3e3/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/MW/.android/build-cache/be9edcf17c138afbc30d293548d474adb98f82fa/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/MW/.android/build-cache/22b15c84a95c9e8bc87ac0b5abcd5e64217f7fe5/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/MW/.android/build-cache/9c0f92005d242551388efa9365b225d50c921d49/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton:butterknife:8.6.0] /Users/MW/.android/build-cache/39cb41ae3be7929cff465d851eadbca25782e0d5/output/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /Users/MW/.android/build-cache/f2e8c9aeb377536feb267904a4cb8b74471adc0c/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/MW/.android/build-cache/39ecec7d29c186ea353b1845fb711d5869617df0/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/MW/AndroidStudioProjects/Stormy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/MW/AndroidStudioProjects/Stormy/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/MW/AndroidStudioProjects/Stormy/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/MW/AndroidStudioProjects/Stormy/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/MW/.android/build-cache/39ecec7d29c186ea353b1845fb711d5869617df0/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/MW/.android/build-cache/073edf1b922cf5b7ab1f79e098e2b7ce4582f752/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/MW/.android/build-cache/c2eba144c5a03302e4505f146ea1cd3d0ef37bdd/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/MW/.android/build-cache/834ebd247504dd4719e88baf1e380b2e95ce8c0c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/MW/.android/build-cache/9c33e5ded22a3659b16ed70e4e219d5239d53bd1/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/MW/.android/build-cache/59f13234e43af17c4275a9b89c421567ab55a3e3/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/MW/.android/build-cache/be9edcf17c138afbc30d293548d474adb98f82fa/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/MW/.android/build-cache/22b15c84a95c9e8bc87ac0b5abcd5e64217f7fe5/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/MW/.android/build-cache/f2e8c9aeb377536feb267904a4cb8b74471adc0c/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/MW/.android/build-cache/39ecec7d29c186ea353b1845fb711d5869617df0/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/MW/.android/build-cache/39ecec7d29c186ea353b1845fb711d5869617df0/output/AndroidManifest.xml:26:9-47
