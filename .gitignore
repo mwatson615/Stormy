@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Created by .ignore support plugin (hsz.mobi)
 app/build/generated/assets/
 app/build/generated/res/
@@ -39,3 +40,14 @@ app/libs/
 build/android-profile/profile-2017-07-22-16-25-45-785.rawproto
 build/android-profile/profile-2017-07-22-16-25-47-885.rawproto
 gen/
+=======
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+>>>>>>> 3e494dd... adding style xml to merge unrelated git histories
