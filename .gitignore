@@ -54,4 +54,4 @@ freeline_project_description.json
 .idea/scopes/scope_settings.xml
 .idea/vcs.xml
 .DS_Store
-/*/build/
+build/
