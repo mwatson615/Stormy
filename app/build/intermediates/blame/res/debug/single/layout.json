@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/Users/MW/AndroidStudioProjects/Stormy/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
-        "source": "/Users/MW/.android/build-cache/39ecec7d29c186ea353b1845fb711d5869617df0/output/res/layout/abc_dialog_title_material.xml"
-    },
-    {
         "merged": "/Users/MW/AndroidStudioProjects/Stormy/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
         "source": "/Users/MW/.android/build-cache/39ecec7d29c186ea353b1845fb711d5869617df0/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/MW/AndroidStudioProjects/Stormy/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/MW/.android/build-cache/39ecec7d29c186ea353b1845fb711d5869617df0/output/res/layout/abc_dialog_title_material.xml"
     },
     {
         "merged": "/Users/MW/AndroidStudioProjects/Stormy/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
@@ -22,6 +22,10 @@
     {
         "merged": "/Users/MW/AndroidStudioProjects/Stormy/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
         "source": "/Users/MW/AndroidStudioProjects/Stormy/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/MW/AndroidStudioProjects/Stormy/app/build/intermediates/res/merged/debug/layout/daily_list_item.xml",
+        "source": "/Users/MW/AndroidStudioProjects/Stormy/app/src/main/res/layout/daily_list_item.xml"
     },
     {
         "merged": "/Users/MW/AndroidStudioProjects/Stormy/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",

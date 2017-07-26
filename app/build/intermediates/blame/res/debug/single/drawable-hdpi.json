@@ -40,6 +40,10 @@
         "source": "/Users/MW/AndroidStudioProjects/Stormy/app/src/main/res/drawable-hdpi/cloudy.png"
     },
     {
+        "merged": "/Users/MW/AndroidStudioProjects/Stormy/app/build/intermediates/res/merged/debug/drawable-hdpi/bg_temperature.png",
+        "source": "/Users/MW/AndroidStudioProjects/Stormy/app/src/main/res/drawable-hdpi/bg_temperature.png"
+    },
+    {
         "merged": "/Users/MW/AndroidStudioProjects/Stormy/app/build/intermediates/res/merged/debug/drawable-hdpi/sunny.png",
         "source": "/Users/MW/AndroidStudioProjects/Stormy/app/src/main/res/drawable-hdpi/sunny.png"
     },

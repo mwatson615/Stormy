@@ -4,6 +4,10 @@
         "source": "/Users/MW/AndroidStudioProjects/Stormy/app/src/main/res/drawable-xhdpi/clear_night.png"
     },
     {
+        "merged": "/Users/MW/AndroidStudioProjects/Stormy/app/build/intermediates/res/merged/debug/drawable-xhdpi/bg_temperature.png",
+        "source": "/Users/MW/AndroidStudioProjects/Stormy/app/src/main/res/drawable-xhdpi/bg_temperature.png"
+    },
+    {
         "merged": "/Users/MW/AndroidStudioProjects/Stormy/app/build/intermediates/res/merged/debug/drawable-xhdpi/snow.png",
         "source": "/Users/MW/AndroidStudioProjects/Stormy/app/src/main/res/drawable-xhdpi/snow.png"
     },

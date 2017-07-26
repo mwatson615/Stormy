@@ -54,5 +54,9 @@
     {
         "merged": "/Users/MW/AndroidStudioProjects/Stormy/app/build/intermediates/res/merged/debug/drawable-xxhdpi/cloudy.png",
         "source": "/Users/MW/AndroidStudioProjects/Stormy/app/src/main/res/drawable-xxhdpi/cloudy.png"
+    },
+    {
+        "merged": "/Users/MW/AndroidStudioProjects/Stormy/app/build/intermediates/res/merged/debug/drawable-xxhdpi/bg_temperature.png",
+        "source": "/Users/MW/AndroidStudioProjects/Stormy/app/src/main/res/drawable-xxhdpi/bg_temperature.png"
     }
 ]
