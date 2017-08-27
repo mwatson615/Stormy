@@ -1,7 +1,0 @@
-#Tue Jul 25 23:36:52 CDT 2017
-base.0=/Users/MW/AndroidStudioProjects/Stormy/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_98d9db711bb42e44bafa079a495334089bab2214
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/Users/MW/AndroidStudioProjects/Stormy/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_226d7dc13c8475af31dcde356bf655fff031c97d/classes.dex
-base.1=/Users/MW/AndroidStudioProjects/Stormy/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_226d7dc13c8475af31dcde356bf655fff031c97d
-file.0=/Users/MW/AndroidStudioProjects/Stormy/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_98d9db711bb42e44bafa079a495334089bab2214/classes.dex
