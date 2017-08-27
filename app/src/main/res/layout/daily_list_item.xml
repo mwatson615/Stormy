@@ -31,7 +31,7 @@
         android:paddingLeft="10dp"
         app:srcCompat="@drawable/clear_day"/>
 
-    <EditText
+    <TextView
         android:id="@+id/dayNameLabel"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -40,15 +40,16 @@
         android:layout_marginStart="9dp"
         android:layout_toEndOf="@id/circleImageView"
         android:layout_toRightOf="@id/circleImageView"
-        android:paddingLeft="10dp"
         android:ems="10"
         android:inputType="textPersonName"
+        android:paddingLeft="10dp"
         android:text="Name"
+        android:textAlignment="center"
         android:textColor="#ffffffff"
         android:textSize="20sp"
         tools:text="Wednesday"/>
 
-    <EditText
+    <TextView
         android:id="@+id/temperatureLabel"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
