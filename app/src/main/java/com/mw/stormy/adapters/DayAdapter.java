@@ -56,16 +56,28 @@ public class DayAdapter extends BaseAdapter{
             holder.dayLabel = (TextView) convertView
                     .findViewById(R.id.dayNameLabel);
             convertView.setTag(holder);
+            holder.circleImageView = (ImageView) convertView
+                    .findViewById(R.id.circleImageView);
+
+            holder.circleImageView.setImageResource(R.drawable.bg_temperature);
         }
         else {
             holder = (ViewHolder) convertView.getTag();
         }
-        return null;
+
+        Day day = mDays[position];
+
+        holder.iconImageView.setImageResource(day.getIconId());
+        holder.temperatureLabel.setText(day.getTemperatureMax() + "");
+        holder.dayLabel.setText(day.getDayOfTheWeek());
+
+        return convertView;
     }
 
     private static class ViewHolder {
         ImageView iconImageView;
         TextView temperatureLabel;
         TextView dayLabel;
+        ImageView circleImageView;
     }
 }
